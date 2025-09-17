@@ -89,6 +89,12 @@ img {
   color: var(--text-primary);
 }
 
+.brand__logo {
+  display: block;
+  height: 52px;
+  width: auto;
+}
+
 .brand__icon {
   display: grid;
   place-items: center;
